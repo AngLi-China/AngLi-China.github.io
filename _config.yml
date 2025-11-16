@@ -36,7 +36,7 @@ kramdown:
 
 gems: ['jekyll-paginate']
 
-exclude: ['README.md', 'LICENSE', "*.bak"]
+exclude: ['README.md', "*.bak"]
 
 defaults:
   -
